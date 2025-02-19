@@ -1,7 +1,14 @@
 ### Hello World! 👏
+
+<img src="https://github-readme-stats.vercel.app/api?username=TideDra&show_icons=true" alt="logo" height="160" align="right" width="70%" />
+
 Hi! I'm TideDra, MSRA Joint PhD majored in AI.
 
 Reach me at: gearyzhang@outlook.com
+
+<br><br><br>
+
+
 ## 🎍 My Skills
 
 ![https://github.com/TideDra](https://skillicons.dev/icons?i=anaconda,arch,cpp,py,pytorch,vscode,visualstudio,github,linux,md,latex)
@@ -15,8 +22,8 @@ Reach me at: gearyzhang@outlook.com
 ## recommends
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TideDra&repo=lmm-r1)](https://github.com/TideDra/lmm-r1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TideDra&repo=VL-RLHF)](https://github.com/TideDra/VL-RLHF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TideDra&repo=zotero-arxiv-daily)](https://github.com/TideDra/zotero-arxiv-daily)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TideDra&repo=VL-RLHF)](https://github.com/TideDra/VL-RLHF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TideDra&repo=seu-thesis-typst)](https://github.com/TideDra/seu-thesis-typst)
 
 ![snake](https://raw.githubusercontent.com/TideDra/TideDra/output/github-contribution-grid-snake.svg)
